@@ -1,3 +1,4 @@
 **/ignore.py
 **/ignore/
 **/*.log
+**/.DS_Store
