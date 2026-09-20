@@ -14,7 +14,7 @@
 ~~Pon sólo una palabra de una frase en negrita~~  
 Solo voy a poner mi nombre en negrita: **Alex**
 
-~~Pon una frase en cursiva~~~  
+~~Pon una frase en cursiva~~  
 _frase en cursiva_
 
 ~~Pon dos palabras alternas de una frase en cursiva~~  
@@ -43,7 +43,7 @@ Este enlace lleva a mi [GitHub](https://github.com/avcenal)
 ~~Crea una imagen con un link~~  
 [![Esto te llevará a mi GitHub](https://avatars.githubusercontent.com/u/134477562?v=4)](https://github.com/avcenal)
 
-~~Crea una cita~~~
+~~Crea una cita~~
 >Esto es una cita de un texto
 
 ~~Crea una lista con puntos~~
@@ -51,7 +51,7 @@ Este enlace lleva a mi [GitHub](https://github.com/avcenal)
 * punto 2
 - punto 3
 
-~~Crea una lista con puntos a diferentes niveles~~~
+~~Crea una lista con puntos a diferentes niveles~~
 1. Nivel 1
     + Nivel 2
         * Nivel 3
